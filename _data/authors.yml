@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Lam Dinh
-  email:             nlam.dinh@gmail.com
+  name:              Quynh Huong Lai
+  email:             qhuong.lai@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -27,8 +27,8 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     # twitter:         <username>
-    github:          dnlam
-    email:           nlam.dinh@gmail.com
+    github:          laihuong
+    email:           qhuong.lai@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -57,7 +57,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        lam-dinh-34a66a160
+    linkedin:        quynh-huong-lai-3b5683185
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
