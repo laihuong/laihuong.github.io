@@ -100,7 +100,7 @@ permalink: /projects/
 <hr />
 <div class="row">
     <div class="paper-img">
-      <img src="/assets/img/papers/c2.png" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/c2.jpg" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
       <a href="https://coursera.org/share/7f3095937df7b2e832eba693a0696c08"><b>[C] Generative AI with Large Language Models 
