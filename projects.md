@@ -77,23 +77,36 @@ permalink: /projects/
 
 <h1 id="Pub">Certificates</h1>
 <hr />
-<h2 id="conf">Clinical Data manager</h2>
+<h2 id="clinical-data-manager">Clinical Data Manager</h2>
 <hr />
+
 <div class="row">
-    <div class="paper-img">
-      <img src="/assets/img/papers/absilon.png" class="thumbnail" width="200" height="200" />
-    </div>
-    <div class="paper-text">
-      <a href="https://drive.google.com/file/d/1wBm9Npn9BG9E2RBmYDfM-ny1l_dJpafz/view?usp=sharing"><b>[C] Clinical Data Management training at Absilon.
-</b></a> <span style="font-size:16px;"><i></i></span><br /> 
-      <span style="font-size:15px;"><i>
-</i></span> <br /> 
-      <a class="label label-info"> About  <span class="abstract">Through this training program, we developed practical skills across the clinical data management workflow, from database design and eCRF/ePRO development to data validation, medical coding, quality control, and documentation. we also gained hands-on experience with Ennov Clinical, including its randomization, data entry, and data import/export modules.
-</span> </a> &nbsp; 
-        <a href="https://drive.google.com/file/d/1wBm9Npn9BG9E2RBmYDfM-ny1l_dJpafz/view?usp=sharing">Certificate</a> 
+  <div class="paper-img">
+    <img
+      src="/assets/img/papers/absilon.png"
+      class="thumbnail"
+      width="200"
+      height="200"
+      alt="Clinical Data Management training at Absilon"
+    />
+  </div>
+
+  <div class="paper-text">
+    <a href="https://drive.google.com/file/d/1wBm9Npn9BG9E2RBmYDfM-ny1l_dJpafz/view?usp=sharing">
+      <b>[C] Clinical Data Management training at Absilon</b>
+    </a>
+    <br /><br />
+
+    <a class="label label-info">
+      About
+      <span class="abstract">
+        Through this training program, we developed practical skills across the clinical data management workflow, from database design and eCRF/ePRO development to data validation, medical coding, quality control, and documentation. We also gained hands-on experience with Ennov Clinical, including its randomization, data entry, and data import/export modules.
+      </span>
+    </a>
+    &nbsp;
+    <a href="https://drive.google.com/file/d/1wBm9Npn9BG9E2RBmYDfM-ny1l_dJpafz/view?usp=sharing">Certificate</a>
   </div>
 </div>
-
 <hr />
 
 <h2 id="conf">Generative AI </h2>
