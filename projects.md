@@ -3,22 +3,43 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-<h2 id="thesis">Thesis</h2>
+<<h2 id="thesis">Thesis</h2>
 <hr />
+
 <div class="row">
-    <div class="paper-img">
-      <img src="/assets/img/papers/TRF2_Apollo interaction.png" class="thumbnail" width="200" height="200" />
-    </div>
-    <div class="paper-text">
-      <a ><b> [T] Coevolution and functional diversification of the TRF2-Apollo interaction in jawed vertebrates </b></a> <span style="font-size:16px;"><i></i></span><br /> 
-      <span style="font-size:15px;"><i><b>  TRF2, Apollo, telomere biology, protein coevolution, telomeric G-overhang, turquoise killifish, sexual maturation  </b></i></span> <br /> 
-      <a class="label label-info"> Abstract <span class="abstract">Telomere repeat-binding factor 2 (TRF2) recruits the 5′ exonuclease Apollo through its TRFH domain to support telomere-end processing and formation of the protective 3′ G-tail. However, the evolutionary conservation and functional variation of this interaction across vertebrates remain poorly understood. This thesis addresses these questions through three complementary chapters. In chapter 1, we combined comparative sequence, mirror-tree coevolution and selection analyses with in vitro interaction assays to investigate TRF2-Apollo evolution in jawed vertebrates. TRF2 and Apollo showed strong evolutionary covariation, particularly between the TRF2 TRFH domain and the Apollo C-terminal region, consistent with coadaptation of the interaction interface. The canonical Apollo YxLxP docking motif and key TRF2 docking residues is conserved in sauropsids and mammals but more variable in fishes, amphibians, and chondrichthyans. Far Western and Co-IP assays revealed marked interspecies variations in interaction strength with a surprisingly strong interaction in turquoise killifish. Through correlations studies, we obtained a strong correlation between TRF2-Apollo binding strength and age at sexual maturation suggesting a need for a strong interaction for fast-growing animals. Probably linked with this, the G-tail of turquoise killifish telomeres is stable through aging. In chapter 2, Far western assays showed that the Apollo L142S mutant binds TRF2 with reduced affinity, consistent with human co IP data and indicating an intrinsic defect in the TRF2-Apollo interface; in vitro nuclease assays further revealed that the orthologous mouse L124S mutation modestly impairs Apollo’s 5′→3′ exonuclease activity on blunt telomeric duplexes. Chapter 3 identifies TELS1 as a telomere-specific protein that stabilizes t-loops independently of TRF2 in pluripotent cells, preserving protection while allowing telomerase access, with in vitro invasion assays showing that purified TELS1 promotes G- and C-rich ssDNA invasion into telomeric dsDNA, supporting a TRF2-independent t-loop formation pathway. 
-</span> </a> &nbsp; 
-        <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-danger">Blog</a>  -->
-        <a href="https://theses.hal.science/tel-04141523" class="label label-danger">Link</a>
+  <div class="paper-img">
+    <img
+      src="/assets/img/papers/TRF2_Apollo interaction.png"
+      class="thumbnail"
+      width="200"
+      height="200"
+      alt="Thesis on the TRF2–Apollo interaction"
+    />
+  </div>
+
+  <div class="paper-text">
+    <b>[T] Coevolution and functional diversification of the TRF2–Apollo interaction in jawed vertebrates</b>
+    <br />
+
+    <span style="font-size: 15px;">
+      <i><b>TRF2, Apollo, telomere biology, protein coevolution, telomeric G-overhang, turquoise killifish, sexual maturation</b></i>
+    </span>
+    <br />
+
+    <span class="label label-info">
+      Abstract
+      <span class="abstract">
+        Telomere repeat-binding factor 2 (TRF2) recruits the 5′ exonuclease Apollo through its TRFH domain to support telomere-end processing and formation of the protective 3′ G-overhang. However, the evolutionary conservation and functional variation of this interaction across vertebrates remain poorly understood. This thesis addresses these questions in three complementary chapters.
+
+        In Chapter 1, we combined comparative sequence analysis, mirror-tree coevolution analysis, selection analysis, and in vitro interaction assays to investigate the evolution of the TRF2–Apollo interaction in jawed vertebrates. TRF2 and Apollo showed strong evolutionary covariation, particularly between the TRF2 TRFH domain and the Apollo C-terminal region, consistent with coadaptation of the interaction interface. The canonical Apollo YxLxP docking motif and key TRF2 docking residues are conserved in sauropsids and mammals but are more variable in fishes, amphibians, and chondrichthyans. Far-Western and co-immunoprecipitation assays revealed marked interspecies variation in interaction strength, including a surprisingly strong interaction in the turquoise killifish. Correlation analyses showed an association between TRF2–Apollo binding strength and age at sexual maturation, suggesting that a strong interaction may be important in fast-growing animals. Consistent with this possibility, the telomeric G-overhang in the turquoise killifish remains stable with age.
+
+        In Chapter 2, Far-Western assays showed that the Apollo L142S mutant binds TRF2 with reduced affinity, consistent with human co-immunoprecipitation data and indicating an intrinsic defect in the TRF2–Apollo interaction. In vitro nuclease assays further revealed that the orthologous mouse L124S mutation modestly impairs Apollo’s 5′→3′ exonuclease activity on blunt telomeric duplexes.
+
+        Chapter 3 identifies TELS1 as a telomere-specific protein that stabilizes t-loops independently of TRF2 in pluripotent cells, preserving telomere protection while allowing telomerase access. In vitro invasion assays showed that purified TELS1 promotes the invasion of G- and C-rich single-stranded DNA into telomeric double-stranded DNA, supporting a TRF2-independent pathway for t-loop formation.
+      </span>
+    </span>
   </div>
 </div>
-
 <h2 id="patents">Patents</h2>
 <hr />
 <div class="row">
