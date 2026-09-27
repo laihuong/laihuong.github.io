@@ -29,219 +29,46 @@ permalink: /projects/
     <span class="label label-info">
       Abstract
       <span class="abstract">
-        Telomere repeat-binding factor 2 (TRF2) recruits the 5′ exonuclease Apollo through its TRFH domain to support telomere-end processing and formation of the protective 3′ G-overhang. However, the evolutionary conservation and functional variation of this interaction across vertebrates remain poorly understood. This thesis addresses these questions in three complementary chapters.
-
-        In Chapter 1, we combined comparative sequence analysis, mirror-tree coevolution analysis, selection analysis, and in vitro interaction assays to investigate the evolution of the TRF2–Apollo interaction in jawed vertebrates. TRF2 and Apollo showed strong evolutionary covariation, particularly between the TRF2 TRFH domain and the Apollo C-terminal region, consistent with coadaptation of the interaction interface. The canonical Apollo YxLxP docking motif and key TRF2 docking residues are conserved in sauropsids and mammals but are more variable in fishes, amphibians, and chondrichthyans. Far-Western and co-immunoprecipitation assays revealed marked interspecies variation in interaction strength, including a surprisingly strong interaction in the turquoise killifish. Correlation analyses showed an association between TRF2–Apollo binding strength and age at sexual maturation, suggesting that a strong interaction may be important in fast-growing animals. Consistent with this possibility, the telomeric G-overhang in the turquoise killifish remains stable with age.
-
-        In Chapter 2, Far-Western assays showed that the Apollo L142S mutant binds TRF2 with reduced affinity, consistent with human co-immunoprecipitation data and indicating an intrinsic defect in the TRF2–Apollo interaction. In vitro nuclease assays further revealed that the orthologous mouse L124S mutation modestly impairs Apollo’s 5′→3′ exonuclease activity on blunt telomeric duplexes.
-
-        Chapter 3 identifies TELS1 as a telomere-specific protein that stabilizes t-loops independently of TRF2 in pluripotent cells, preserving telomere protection while allowing telomerase access. In vitro invasion assays showed that purified TELS1 promotes the invasion of G- and C-rich single-stranded DNA into telomeric double-stranded DNA, supporting a TRF2-independent pathway for t-loop formation.
+        Telomere repeat-binding factor 2 (TRF2) recruits the 5′ exonuclease Apollo to process telomere ends and form the protective 3′ G-overhang. The conservation and functional variation of this interaction across vertebrates remain poorly understood. This thesis addresses these questions in three chapters. Chapter 1 combines comparative sequence, coevolution, selection, and interaction analyses in jawed vertebrates. TRF2 and Apollo show strong evolutionary covariation, particularly at their interaction interface. Key docking residues are conserved in mammals and sauropsids but are more variable in other vertebrates. Interaction strength varies across species and is notably strong in the turquoise killifish. Binding strength correlates with age at sexual maturation, while the killifish telomeric G-overhang remains stable with age. Chapter 2 shows that Apollo L142S reduces TRF2 binding and that the orthologous mouse L124S mutation modestly impairs exonuclease activity on telomeric DNA. Chapter 3 identifies TELS1 as a TRF2-independent t-loop stabilizer in pluripotent cells and shows that it promotes single-stranded DNA invasion into telomeric duplex DNA in vitro.
       </span>
     </span>
   </div>
 </div>
-<h2 id="patents">Patents</h2>
-<hr />
-<div class="row">
-    <div class="paper-img">
-      <img src="/assets/img/papers/p1.png" class="thumbnail" width="200" height="200" />
-    </div>
-    <div class="paper-text">
-      <a href=""><b> [P] Method to exploit latency distribution for early decision making, </b></a> <span style="font-size:16px;"><i>Patent 2103542, filled in March,2021 </i></span><br /> 
-      <span style="font-size:15px;"><i><b> Early Decision Making.  </b></i></span> <br /> 
-      <a class="label label-info"> Abstract <span class="abstract">The invention is concerned generally with wireless networks and in particular with a method and apparatus for orchestrating the execution of a plurality of mechanisms by one or more nodes in a wireless network.
-</span> </a> &nbsp; 
-        <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-danger">Blog</a>  -->
-        <a href="https://www.leti-cea.fr/cea-tech/leti/Pages/Leti/Programmes-et-projets-soutenus/Liste-des-projets/5G-Conni.aspx" class="label label-danger">Link</a>
-  </div>
-</div>
-<hr />
-<div class="row">
-    <div class="paper-img">
-      <img src="/assets/img/papers/p2.png" class="thumbnail" width="200" height="200" />
-    </div>
-    <div class="paper-text">
-      <a href=""><b> [P] Methods and apparatus for jitter-aware scheduling in wireless Time Sensitive Network communications, </b></a> <span style="font-size:16px;"><i>Patent 2103542, filled in May,2021 </i></span><br /> 
-      <span style="font-size:15px;"><i><b> Network Determinism.</b></i></span> <br /> 
-      <a class="label label-info"> Abstract <span class="abstract">We introduce a jitter-aware orchestration method that forces latency to fall within predetermined windows.
-</span> </a> &nbsp; 
-        <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-danger">Blog</a>  -->
-        <a href="https://www.leti-cea.fr/cea-tech/leti/Pages/Leti/Programmes-et-projets-soutenus/Liste-des-projets/5G-Conni.aspx" class="label label-danger">Link</a>
-  </div>
-</div>
+
 
 <h2 id="journal">Journal articles</h2>
 <hr />
+
 <div class="row">
-    <div class="paper-img">
-      <img src="/assets/img/papers/NS3AI_learning_1.jpg" class="thumbnail" width="200" height="200" />
-    </div>
-    <div class="paper-text">
-      <a href="https://arxiv.org/abs/2410.16846"><b> [J] Safe Load Balancing in Software-Defined-Networking</b></a> <span style="font-size:16px;"><i></i></span><br /> 
-      <span style="font-size:15px;"><i><b> Traffic Engineering, Optimisation, Deep Reinforcement Learning, Heuristic, Transfer Learning, GPU acceleration. </b></i></span> <br /> 
-      <a class="label label-info"> Abstract <span class="abstract">High performance, reliability and safety are crucial properties of any Software-Defined-Networking (SDN) system. Although the use of Deep Reinforcement Learning (DRL) algorithms has been widely studied to improve performance, their practical applications are still limited as they fail to ensure safe operations in exploration and decision-making. To fill this gap, we explore the design of a Control Barrier Function (CBF) on top of Deep Reinforcement Learning (DRL) algorithms for load-balancing. We show that our DRL-CBF approach is capable of meeting safety requirements during training and testing while achieving near-optimal performance in testing. We provide results using two simulators: a flow-based simulator, which is used for proof-of-concept and benchmarking, and a packet-based simulator that implements real protocols and scheduling. Thanks to the flow-based simulator, we compared the performance against the optimal policy, solving a Non Linear Programming (NLP) problem with the SCIP solver. Furthermore, we showed that pre-trained models in the flow-based simulator, which is faster, can be transferred to the packet simulator, which is slower but more accurate, with some fine-tuning. Overall, the results suggest that near-optimal Quality-of-Service (QoS) performance in terms of end-to-end delay can be achieved while safety requirements related to link capacity constraints are guaranteed. In the packet-based simulator, we also show that our DRL-CBF algorithms outperform non-RL baseline algorithms. When the models are fine-tuned over a few episodes, we achieved smoother QoS and safety in training, and similar performance in testing compared to the case where models have been trained from scratch.
-</span> </a> &nbsp; 
-        <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-danger">Blog</a>  -->
-        <a href="https://arxiv.org/abs/2410.16846" class="label label-danger">Link</a>
+  <div class="paper-img">
+    <img
+      src="/assets/img/papers/jerome.jpg"
+      class="thumbnail"
+      width="200"
+      height="200"
+      alt="TELS1 journal article"
+    />
   </div>
-</div>
 
-<hr />
+  <div class="paper-text">
+    <a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01031-9">
+      <b>[J] TELS1 stabilizes t-loops independently of TRF2 and controls telomere length in pluripotent cells</b>
+    </a>
+    <br />
 
-<div class="row">
-    <div class="paper-img">
-      <img src="/assets/img/papers/5g_conni.jpg" class="thumbnail" width="200" height="200" />
-    </div>
-    <div class="paper-text">
-      <a href="https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-021-02067-2"><b> [J] Beyond Private 5G  Networks: Applications, Architectures, Operator Models and Technological Enablers</b></a> <span style="font-size:16px;"><i></i></span><br /> 
-      <span style="font-size:15px;"><i><b> 5G Network Architecture and Orchestration. </b></i></span> <br /> 
-      <a class="label label-info"> Abstract <span class="abstract">Private networks will play a key role in 5G and beyond to enable smart factories with the required better deployment, operation and flexible usage of available resource and infrastructure. 5G private networks will offer a lean and agile solution to effectively deploy and operate services with stringent and heterogeneous constraints in terms of reliability, latency, re-configurability and re-deployment of resources as well as issues related to governance and ownership of 5G components, and elements. In this paper, we present a novel approach to operator models, specifically targeting 5G and beyond private networks. We apply the proposed operator models to different network architecture options and to a selection of relevant use cases offering mixed private–public network operator governance and ownership. Moreover, several key enabling technologies have been identified for 5G private networks. Before the deployment, stakeholders should consider spectrum allocation and on-site channel measurements in order to fully understand the propagation characteristic of a given environment and to set up end-to-end system parameters. During the deployment, a monitoring tools will support to validate the deployment and to make sure that the end-to-end system meet the target KPI. Finally, some optimization can be made individually for service placement, network slicing and orchestration or jointly at radio access, multi-access edge computing or core network level.
-</span> </a> &nbsp; 
-        <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-danger">Blog</a>  -->
-        <a href="https://www.leti-cea.fr/cea-tech/leti/Pages/Leti/Programmes-et-projets-soutenus/Liste-des-projets/5G-Conni.aspx" class="label label-danger">Link</a>
-  </div>
-</div>
+    <span style="font-size: 15px;">
+      <i><b>Telomeric t-loops, telomere protection, TIFs, mouse embryonic stem cells, pluripotency, TELS1, telomerase, shelterin-independent protection</b></i>
+    </span>
+    <br />
 
-<h2 id="conf">Conference proceedings</h2>
-<hr />
-<div class="row">
-    <div class="paper-img">
-      <img src="/assets/img/papers/E2E_intent_management.png" class="thumbnail" width="200" height="200" />
-    </div>
-    <div class="paper-text">
-      <a href="https://arxiv.org/abs/2504.13589"><b>[C] Towards End-to-End Network Intent Management with Large Language Models
-</b></a> <span style="font-size:16px;"><i></i></span><br /> 
-      <span style="font-size:15px;"><i><b> Large Language Models (LLMs), network automation, network intent management, evaluation.</b></i></span> <br /> 
-      <a class="label label-info"> Abstract <span class="abstract">Large Language Models (LLMs) are likely to play a key role in Intent-Based Networking (IBN) as they show remarkable performance in interpreting human language as well as code generation, enabling the translation of high-level intents expressed by humans into low-level network configurations. In this paper, we leverage closed-source language models (i.e., Google Gemini 1.5 pro, ChatGPT-4) and open-source models (i.e., LLama, Mistral) to investigate their capacity to generate E2E network configurations for radio access networks (RANs) and core networks in 5G/6G mobile networks. We introduce a novel performance metrics, known as FEACI, to quantitatively assess the format (F), explainability (E), accuracy (A), cost (C), and inference time (I) of the generated answer; existing general metrics are unable to capture these features. The results of our study demonstrate that open-source models can achieve comparable or even superior translation performance compared with the closed-source models requiring costly hardware setup and not accessible to all users.  
-</span> </a> &nbsp; 
-        <a href="https://arxiv.org/abs/2504.13589" class="label label-danger">Link</a> 
-  </div>
-</div>
-
-<hr />
-<div class="row">
-    <div class="paper-img">
-      <img src="/assets/img/papers/SDWAN.png" class="thumbnail" width="200" height="200" />
-    </div>
-    <div class="paper-text">
-      <a href="https://hal.science/hal-04563967/"><b>[C] Load Balancing with Safe Reinforcement Learning
-</b></a> <span style="font-size:16px;"><i></i></span><br /> 
-      <span style="font-size:15px;"><i><b> Network optimization, CUDA-enabled acceleration, Safety, Deep Reinforcement Learning (DRL), Control Barrier Function (CBF).</b></i></span> <br /> 
-      <a class="label label-info"> Abstract <span class="abstract">Deep Reinforcement Learning (DRL) algorithms have recently made significant strides in improving network performance. Nonetheless, their practical use is still limited in the absence of safe exploration and safe decision-making. In the context of commercial solutions, reliable and safe-to-operate systems are of paramount importance. Taking this problem into account, we propose a safe learning-based load balancing algorithm for Software Defined-Wide Area Network (SD-WAN), which is empowered by Deep Reinforcement Learning (DRL) combined with a Control Barrier Function (CBF). It safely projects unsafe actions into feasible ones during both training and testing, and it guides learning towards safe policies. We successfully implemented the solution on GPU to accelerate training by approximately 110x times and achieve model updates for on-policy methods within a few seconds, making the solution practical. We show that our approach delivers near-optimal Quality-of-Service (QoS performance in terms of end-to-end delay while respecting safety requirements related to link capacity constraints. 
-</span> </a> &nbsp; 
-        <a href="https://hal.science/hal-04563967/" class="label label-danger">Link</a> 
-  </div>
-</div>
-
-<hr />
-
-<div class="row">
-    <div class="paper-img">
-      <img src="/assets/img/papers/drl_cbf.png" class="thumbnail" width="200" height="200" />
-    </div>
-    <div class="paper-text">
-      <a href="https://arxiv.org/abs/2401.05525"><b>[C] Towards Safe Load Balancing based on Control Barrier Functions and Deep Reinforcement Learning
-</b></a> <span style="font-size:16px;"><i></i></span><br /> 
-      <span style="font-size:15px;"><i><b> Network optimization, CUDA-enabled acceleration, Safety, Deep Reinforcement Learning (DRL), Control Barrier Function (CBF).</b></i></span> <br /> 
-      <a class="label label-info"> Abstract <span class="abstract">Deep Reinforcement Learning (DRL) algorithms have recently made significant strides in improving network performance. Nonetheless, their practical use is still limited in the absence of safe exploration and safe decision-making. In the context of commercial solutions, reliable and safe-to-operate systems are of paramount importance. Taking this problem into account, we propose a safe learning-based load balancing algorithm for Software Defined-Wide Area Network (SD-WAN), which is empowered by Deep Reinforcement Learning (DRL) combined with a Control Barrier Function (CBF). It safely projects unsafe actions into feasible ones during both training and testing, and it guides learning towards safe policies. We successfully implemented the solution on GPU to accelerate training by approximately 110x times and achieve model updates for on-policy methods within a few seconds, making the solution practical. We show that our approach delivers near-optimal Quality-of-Service (QoS) performance in terms of end-to-end delay while respecting safety requirements related to link capacity constraints. We also demonstrated that on-policy learning based on Proximal Policy Optimization (PPO) performs better than off-policy learning with Deep Deterministic Policy Gradient (DDPG) when both are combined with a CBF for safe load balancing. 
-</span> </a> &nbsp; 
-        <a href="https://arxiv.org/abs/2401.05525" class="label label-danger">Link</a> 
-  </div>
-</div>
-
-<hr />
-
-<div class="row">
-    <div class="paper-img">
-      <img src="/assets/img/papers/maddpg.png" class="thumbnail" width="200" height="200" />
-    </div>
-    <div class="paper-text">
-      <a href="https://ieeexplore.ieee.org/document/10188350"><b>[C] Hybrid Radio Resource Management Based on Multi-Agent Reinforcement Learning
-</b></a> <span style="font-size:16px;"><i></i></span><br /> 
-      <span style="font-size:15px;"><i><b> Wireless optimization, Multi-Agent Deep Reinforcement Learning (MARL), System level simulation.</b></i></span> <br /> 
-      <a class="label label-info"> Abstract <span class="abstract">In this paper, we propose a novel hybrid grant-based and grant-free radio access scheme. We provide two multi-agent reinforcement learning algorithms to optimize a global network objective in terms of latency, reliability and network throughput: Multi-Agent Deep Q-Learning (MADQL) and Multi-Agent Deep Deterministic Policy Gradient (MADDPG). In MADQL, each user (agent) learns its optimal action-value function, which is based only on its local observation, and performs an optimal opportunistic action using the shared spectrum. MADDPG involves the attached gNB function as a global observer (critic), which criticizes the action of each associated agent (actor) in the network. By leveraging centralised training and decentralised execution, we achieve a shared goal better than the first algorithm. Then, through a system level simulation where the full protocol stack is considered, we show the gain of our approach to efficiently manage radio resources and guarantee latency.
-</span> </a> &nbsp; 
-        <a href="https://ieeexplore.ieee.org/document/10188350" class="label label-danger">Link</a> 
-  </div>
-</div>
-
-<hr />
-<div class="row">
-    <div class="paper-img">
-      <img src="/assets/img/papers/lyapunov.png" class="thumbnail" width="200" height="200" />
-    </div>
-    <div class="paper-text">
-      <a href="https://ieeexplore.ieee.org/abstract/document/9977893"><b>[C] Dynamic Resource Scheduling Optimization for Ultra-Reliable Low Latency Communications: From Simulation to Experimentation
-</b></a> <span style="font-size:16px;"><i></i></span><br /> 
-      <span style="font-size:15px;"><i><b> Lyapunov optimization, System level simulation, Hardware experimentation.</b></i></span> <br /> 
-      <a class="label label-info"> Abstract <span class="abstract">In this paper, we propose a dynamic and efficient resource scheduling based on Lyapunov's optimization for Ultra-Reliable Low Latency Communications, taking into account the traffic arrival at the network layer, the queue behaviors at the data link layer and the risk that the applied decision might result in packet losses. The trade-off between the resource efficiency, latency and reliability is achieved by the timing and intensity of decisions and is adapted to dynamic scenarios (e.g., random bursty traffic, time-varying channel). Our queue-aware and channel-aware solution is evaluated in terms of latency, reliability outage and resource efficiency in a system-level simulator and validated by an experimental testbed using OpenAirInterface.
-</span> </a> &nbsp; 
-        <a href="https://ieeexplore.ieee.org/abstract/document/9977893" class="label label-danger">Link</a> 
-  </div>
-</div>
-
-<hr />
-
-<div class="row">
-    <div class="paper-img">
-      <img src="/assets/img/papers/lyapunov.png" class="thumbnail" width="200" height="200" />
-    </div>
-    <div class="paper-text">
-      <a href="https://ieeexplore.ieee.org/abstract/document/9815615"><b>[C] Towards URLLC with Proactive HARQ Adaptation
-</b></a> <span style="font-size:16px;"><i></i></span><br /> 
-      <span style="font-size:15px;"><i><b> Lyapunov optimization, System level simulation.</b></i></span> <br /> 
-      <a class="label label-info"> Abstract <span class="abstract">In this work, we propose a dynamic decision maker algorithm to improve the proactive HARQ protocol for beyond 5G networks. Based on Lyapunov stochastic optimization, our adaptation control framework dynamically selects the number of proactive retransmissions for intermittent URLLC traffic scenarios under time-varying channel conditions without requiring any prior knowledge associated with this stochastic process. It then better exploits the trade-off between Radio Access Network (RAN) latency, reliability and resource efficiency, which is still limited in its realization on current HARQ designs. We then evaluate the performance of several HARQ strategies and show that our proposal further improves latency over the reactive regime without affecting the resource efficiency such as fixed proactive retransmission while maintaining target reliability.
-</span> </a> &nbsp; 
-        <a href="https://ieeexplore.ieee.org/abstract/document/9815615" class="label label-danger">Link</a> 
-  </div>
-</div>
-
-<hr />
-
-<div class="row">
-    <div class="paper-img">
-      <img src="/assets/img/papers/lyapunov.png" class="thumbnail" width="200" height="200" />
-    </div>
-    <div class="paper-text">
-      <a href="https://ieeexplore.ieee.org/abstract/document/9860872"><b>[C] Proactive Resource Scheduling for 5G and Beyond Ultra-Reliable Low Latency Communications
-</b></a> <span style="font-size:16px;"><i></i></span><br /> 
-      <span style="font-size:15px;"><i><b> System level simulation.</b></i></span> <br /> 
-      <a class="label label-info"> Abstract <span class="abstract">Effective resource use in Ultra-Reliable and Low-Latency Communications (URLLC) is one of the main challenges for 5G and beyond systems. In this paper, we propose a novel scheduling methodology (combining reactive and proactive resource allocation strategies) specifically devised for URLLC services. Our ultimate objective is to characterize the level of proactivity required to cope with various scenarios. Specifically, we propose to operate at the scheduling level, addressing the trade-off between reliability, latency and resource efficiency. We offer an evaluation of the proposed methodology in the case of the well-known Hybrid Automatic Repeat reQuest (HARQ) protocol in which the proactive strategy allows a number of parallel retransmissions instead of the ‘'send-wait-react’' mode. To this end, we propose some deviations from the HARQ procedure and benchmark the performance in terms of latency, reliability outage and resource efficiency as a function of the level of proactivity. Afterwards, we highlight the critical importance of proactive adaptation in dynamic scenarios (i.e. with changing traffic rates and channel conditions).
-</span> </a> &nbsp; 
-        <a href="https://ieeexplore.ieee.org/abstract/document/9860872" class="label label-danger">Link</a> 
-  </div>
-</div>
-
-<hr />
-
-<div class="row">
-    <div class="paper-img">
-      <img src="/assets/img/papers/v2n.png" class="thumbnail" width="200" height="200" />
-    </div>
-    <div class="paper-text">
-      <a href="https://ieeexplore.ieee.org/abstract/document/9861012"><b>[C] Evaluation of 5G-NR V2N Connectivity in a Centralized Cooperative Lane Change Scenario
-</b></a> <span style="font-size:16px;"><i></i></span><br /> 
-      <span style="font-size:15px;"><i><b> 5G-NR, Vehicular Networks, System level simulation.</b></i></span> <br /> 
-      <a class="label label-info"> Abstract <span class="abstract">By means of system-level simulations, we analyze in this paper the performance of Vehicle-to-Network (V2N) connectivity based on the 5th Generation - New Radio (5GNR) as a support to Cooperative, Connected and Automated Mobility (CCAM), in light of both network and Multi-access Edge Computing (MEC) deployments. Focusing on a canonical centralized Cooperative Lane Change (CLC) use case that involves three vehicles in a cross-border highway environment, we assess the link reliability and the End-to-End (E2E) latency of all the messages involved in the CLC negotiation phase (from/to interconnected MECs hosting the centralized maneuvering application), while assuming different deployment configurations and the coexistence with a second demanding vehicular service running over the same radio resources. On this occasion, we illustrate possible benefits from Bandwidth Partitioning (BWP) on Uplink (UL) latency, as well as from an hypothetically tight cooperation between Mobile Network Operators (MNOs) on reliability and continuity, leveraging low-latency inter-MEC transactions and seamless cross-border handover capabilities.
-</span> </a> &nbsp; 
-        <a href="https://ieeexplore.ieee.org/abstract/document/9861012" class="label label-danger">Link</a> 
-  </div>
-</div>
-
-<hr />
-
-<div class="row">
-    <div class="paper-img">
-      <img src="/assets/img/papers/Lifi_Communication.jpg" class="thumbnail" width="200" height="200" />
-    </div>
-    <div class="paper-text">
-      <a href="https://www.owcconference.com/paper/reaching-7-7-gb-s-in-owc-with-dco-ofdm-on-a-single-blue-10-%C2%B5m-gan-micro-led/"><b>[C] Reaching 7.7 Gb/s in OWC with DCO-OFDM on a Single Blue 10-um GaN Micro-LED
-</b></a> <span style="font-size:16px;"><i></i></span><br /> 
-      <span style="font-size:15px;"><i><b> Optical-Digital Signal Processing, micro-LED characterization</b></i></span> <br /> 
-      <a class="label label-info"> Abstract <span class="abstract">This presentation describes recent activities on ultra-high speed Optical Wireless Communications (OWC) using Gallium-Nitride micro-LEDs designed and fabricated at CEA-Leti. Micro-LEDs are one of the most promising OWC optical sources due to their high illumination efficiency and their large modulation bandwidths. Preliminary work focused on the implementation of a 10-µm single blue micro-LED on sapphire wafer within an experimental OWC setup, mixing software generation of direct-current optical orthogonal frequency division multiplexing (DCO-OFDM) patterns and hardware optical components for light collection, high speed photo-detection and digital acquisitions. Intensity modulation conveys DCO-OFDM waveform and direct detection is used at reception. A high current density of 25.5 kA/cm² provided a modulation bandwidth of 1.8 GHz. Associated to bit and power loading with up to a 256-QAM subcarrier modulation, it enabled a new data rate of 7.7 Gb/s, compared to the previous record of 5.37 Gb/s reached with a blue 21-µm microLED in 2016. Towards a better understanding of the micro-LED design impact on OWC performance, next investigations will study the electrical modelling of such micro-LEDs in the high frequency regime. Future works will cover the use of large arrays of more than 10 thousands micro-LEDs. The first objective is to open the way to new digital-to-optical modulations by independently driving each pixel, to remove digital-to-analogue converter and target highly integrated system-on-chips for ultra-high speed OWC transmitters. Secondly, higher emitted optical power is expected to open such technology to indoor multiple access applications where light collection and emitter-receiver alignment may not be possible anymore.
-</span> </a> &nbsp; 
-        <a href="https://www.leti-cea.com/cea-tech/leti/english/Pages/What's-On/Press%20release/CEA-Leti-Researchers-Break-Throughput-Record-for-LiFi-Communications-Using-Single-GaN-Blue-Micro-Light-Emitting-Diode.aspx" class="label label-danger">Link</a> 
-        <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-warning">News</a>
+    <a class="label label-info">
+      Abstract
+      <span class="abstract">
+        Telomeric loops (t-loops) are thought to protect chromosome ends, with their stabilization generally requiring the shelterin protein TRF2. However, the mechanisms operating in pluripotent cells remain unknown. Here, we identify TELS1 as a TRF2-independent t-loop stabilizer in pluripotent cells. TELS1 binds single-stranded, G-rich telomeric DNA tracts likely present within duplex telomeric regions and promotes strand invasion in vitro, consistent with a direct role in t-loop formation. When targeted to telomeres in differentiated cells, TELS1 is able to substitute for TRF2 in making the t-loop, which partially protects from ATM activation. In TELS1-deficient pluripotent cells, telomeres lack t-loops but remain protected and become more accessible to telomerase, resulting in elongation. A genome-wide CRISPR screen identifies Ubr5 as essential for this tolerance. These findings validate the t-loop as an essential structure for end protection and uncover a telomere protection pathway unique to pluripotent cells that appears to function independently of shelterin.
+      </span>
+    </a>
+    &nbsp;
+    <a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01031-9" class="label label-danger">Link</a>
   </div>
 </div>
 
