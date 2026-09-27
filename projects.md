@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-<<h2 id="thesis">Thesis</h2>
+<h2 id="thesis">Thesis</h2>
 <hr />
 
 <div class="row">
