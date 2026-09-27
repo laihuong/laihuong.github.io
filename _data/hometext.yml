@@ -8,9 +8,9 @@ about:
   position: Research engineer in biochemistry and bioinformatic
   school: IRCAN Nice
   news:
-    - text: <p class="align-justify"><a href="" class="box-news box-news-date">09/2026</a> We have submitted the thesis manuscript, “Coevolution and Functional Diversification of the TRF2–Apollo Interaction in Jawed Vertebrates,” through ADUM. An article with the same title is currently being submitted to EMBO Reports.
+    - text: <p class="align-justify"><a href="" class="box-news box-news-date">09/2026</a> We have submitted the thesis manuscript, <strong>“Coevolution and Functional Diversification of the TRF2–Apollo Interaction in Jawed Vertebrates,”</strong> through ADUM. An article with the same title is currently being submitted to EMBO Reports.
     - text: <p class="align-justify"><a href="" class="box-news box-news-date">09/2025</a>  We published at <a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01031-9">Cell Reports</a>, a paper entitled <a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01031-9"><strong> "TELS1 stabilizes t-loops independently of TRF2 and controls telomere length in pluripotent cells" </strong>. </a> </p>
-    - text: <p class="align-justify"><a href="" class="box-news box-news-date">05/2024</a>  We presented at <a href="https://meetings.embo.org/event/24-telomere">EMBO Rome workshop and EMBO Nice workshop</a>, our poster entitled "Functional Diversification of the TRF2–Apollo Interaction in selected species" </strong>.</a></p>
+    - text: <p class="align-justify"><a href="" class="box-news box-news-date">05/2024</a>  We presented our poster, <strong>“Functional Diversification of the TRF2–Apollo Interaction in Selected Species,”</strong> at the <a href="https://meetings.embo.org/event/24-telomere">EMBO workshop in Rome</a> and <a href="https://meetings.embo.org/event/24-aging">EMBO workshop in Nice </a></p>
     # - text: <p class="align-justify"><a href="" class="box-news box-news-date">06/2024</a> We talked at <a href="https://noms2024.ieee-noms.org/"> IEEE NOMS conference</a>, a paper entitled <a href="https://ieeexplore.ieee.org/document/10575399"><strong> "Towards Safe Load Balancing based on Control Barrier Functions and Deep Reinforcement Learning" </strong>.</a></p>
 timeline:
   title: "Experience"
