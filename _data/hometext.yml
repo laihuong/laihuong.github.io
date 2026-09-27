@@ -1,7 +1,7 @@
 about:
   title: "About me"
   section: about
-  image: assets/img/huonglai.jpg
+  image: assets/img/huonglai.bmp
   text: |
    I am a research engineer with a strong background in molecular biology, biochemistry, and computational biology. I am currently completing my PhD at Université Côte d’Azur, where I study protein–protein interactions and biomolecular modeling.
    My training combines experimental and computational approaches, including biochemical assays, molecular biology techniques, and bioinformatics. I have gained research experience at several French institutes, working on topics ranging from DNA repair mechanisms and the development of viral inhibitors to telomere biology and protein interaction systems.
