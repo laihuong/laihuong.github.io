@@ -28,7 +28,7 @@ description:           >
   My blog
 
 # A shorter description for the sidebar.
-tagline:               Senior Researcher in AI for 6G Networks and Standadization
+tagline:               Research Engineer in Biochemistry & Bioinformatics Research Engineer in Biochemistry & Bioinformatics | Biomedical & Clinical Data Management
 
 # A list of keywords for your blog
 keywords:              []
@@ -52,8 +52,8 @@ menu:
   #   url:               /example/
   # - title:             Documentation
   #   url:               /docs/
-  - title:             Blog
-    url:               /blog/
+  # - title:             Blog
+  #   url:               /blog/
   - title:             Curriculum Vitae
     url:               /CV/
   - title:             Projects
@@ -76,7 +76,7 @@ legal:
   #   url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2025. All rights reserved.
+copyright:             © 2026. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
