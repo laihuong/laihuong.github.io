@@ -73,8 +73,65 @@ permalink: /projects/
 </div>
 
 <hr />
+<h1 id="Pub">Master diploma</h1>
+<hr />
+<div class="row">
+  <div class="paper-img">
+    <img
+      src="/assets/img/papers/diploma_X.png"
+      class="thumbnail"
+      width="200"
+      height="200"
+      alt="Master degree in Biochemistry, structural biology and computational biology"
+    />
+  </div>
 
+  <div class="paper-text">
+    <a href="https://drive.google.com/file/d/1yPX6fl3fKeMDg-VuVXbcMxpmcRP_FjhR/view?usp=sharing">
+      <b>[M] Master degree in Biochemistry, structural biology and computational biology</b>
+    </a>
+    <br /><br />
 
+    <a class="label label-info">
+      About
+      <span class="abstract">
+        Master 2 Biology and Health – École Polytechnique / Institut Polytechnique de Paris is a one-year, English-taught programme focused on advanced molecular and cellular biology. It combines molecular, structural, cellular, developmental, and omics-based approaches with interdisciplinary perspectives from physics, chemistry, mathematics, and computer science, and includes a research laboratory internship. It is designed to prepare students for PhD studies and careers in biotechnology, pharmaceutical research, and academia.
+      </span>
+    </a>
+    &nbsp;
+    <a href="https://drive.google.com/file/d/1yPX6fl3fKeMDg-VuVXbcMxpmcRP_FjhR/view?usp=sharing">Certificate</a>
+  </div>
+</div>
+<hr />
+<hr />
+<div class="row">
+  <div class="paper-img">
+    <img
+      src="/assets/img/papers/paris_saclay.png"
+      class="thumbnail"
+      width="200"
+      height="200"
+      alt="Master degree in Biophysic"
+    />
+  </div>
+
+  <div class="paper-text">
+    <a href="https://drive.google.com/file/d/18YywM_cqGvMRc2QbY3R9oIh5nlEbFTwq/view?usp=sharing">
+      <b>[M] Master degree in Biophysic</b>
+    </a>
+    <br /><br />
+
+    <a class="label label-info">
+      About
+      <span class="abstract">
+        In Erasmus Mundus Master’s programme in Molecular Photonics for Bio- and Nanotechnologies, associated with ENS Paris-Saclay, we studied molecular photonics and nanotechnology for life-science applications, including optical methods for biological analysis, imaging, biosensing, and biomedical research.
+      </span>
+    </a>
+    &nbsp;
+    <a href="https://drive.google.com/file/d/18YywM_cqGvMRc2QbY3R9oIh5nlEbFTwq/view?usp=sharing">Certificate</a>
+  </div>
+</div>
+<hr />
 <h1 id="Pub">Certificates</h1>
 <hr />
 <h2 id="clinical-data-manager">Clinical Data Manager</h2>
