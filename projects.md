@@ -117,7 +117,7 @@ permalink: /projects/
 
   <div class="paper-text">
     <a href="https://drive.google.com/file/d/18YywM_cqGvMRc2QbY3R9oIh5nlEbFTwq/view?usp=sharing">
-      <b>[M] Master degree in Biophysic</b>
+      <b>[M] Master degree in Biophysics</b>
     </a>
     <br /><br />
 
