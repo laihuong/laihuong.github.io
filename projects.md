@@ -275,13 +275,50 @@ permalink: /projects/
       <img src="/assets/img/papers/SQL_python.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://drive.google.com/file/d/1kBdy6xBIUSL4gjAjbbfDpbui6vV7eV27/view?usp=sharing"><b>[C]  SQL for Data Science 
+      <a href="https://drive.google.com/file/d/1kBdy6xBIUSL4gjAjbbfDpbui6vV7eV27/view?usp=sharing"><b>[C]  Databases and SQL for Data Science with Python
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
       <a class="label label-info"> About  <span class="abstract">In this course, we studied relational databases and SQL for data science, including creating and managing tables, writing basic-to-intermediate SQL queries, and analyzing data with Python. We also covered joins, views, transactions, stored procedures, and accessing databases through Jupyter Notebooks.
 </span> </a> &nbsp; 
         <a href="https://drive.google.com/file/d/1kBdy6xBIUSL4gjAjbbfDpbui6vV7eV27/view?usp=sharing" class="label label-success">Certificate</a> 
+        <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-warning">News</a> -->
+  </div>
+</div>
+<hr />
+<h2 id="conf">Linux</h2>
+<hr />
+<div class="row">
+    <div class="paper-img">
+      <img src="/assets/img/papers/linux.png" class="thumbnail" width="200" height="200" />
+    </div>
+    <div class="paper-text">
+      <a href="https://drive.google.com/file/d/1kBdy6xBIUSL4gjAjbbfDpbui6vV7eV27/view?usp=sharing"><b>[C]  Hands-on Introduction to Linux Commands and
+Shell Scripting 
+</b></a> <span style="font-size:16px;"><i></i></span><br /> 
+      <span style="font-size:15px;"><i>
+</i></span> <br /> 
+      <a class="label label-info"> About  <span class="abstract">In this course, In this course, we studied essential Linux commands for navigating the file system, managing files and directories, viewing and processing text, controlling permissions, and working with processes. We also learned to write shell scripts to automate routine tasks using variables, conditional statements, loops, and command-line arguments.
+</span> </a> &nbsp; 
+        <a href="https://drive.google.com/file/d/1kBdy6xBIUSL4gjAjbbfDpbui6vV7eV27/view?usp=sharing" class="label label-success">Certificate</a> 
+        <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-warning">News</a> -->
+  </div>
+</div>
+<hr />
+<h2 id="conf">Power BI</h2>
+<hr />
+<div class="row">
+    <div class="paper-img">
+      <img src="/assets/img/papers/linux.png" class="thumbnail" width="200" height="200" />
+    </div>
+    <div class="paper-text">
+      <a href="https://drive.google.com/file/d/1y2H7pMViDPMs-pvLQ5sAtfpRYABJGYjh/view?usp=sharing"><b>[C]  Introduction to Power BI
+</b></a> <span style="font-size:16px;"><i></i></span><br /> 
+      <span style="font-size:15px;"><i>
+</i></span> <br /> 
+      <a class="label label-info"> About  <span class="abstract">In this course, we studied the fundamentals of Power BI, including loading and transforming data with Power Query, building data models, creating interactive visualizations and reports, and using filters, slicers, hierarchies, and drill-down features to explore data.
+</span> </a> &nbsp; 
+        <a href="https://drive.google.com/file/d/1y2H7pMViDPMs-pvLQ5sAtfpRYABJGYjh/view?usp=sharing" class="label label-success">Certificate</a> 
         <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-warning">News</a> -->
   </div>
 </div>

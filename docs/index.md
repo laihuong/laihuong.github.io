@@ -37,5 +37,5 @@ In my spare time I am interested in table tennis, skiing and sightseeing.<br>
 <p align="justify">
 You can contact me via my personal email at:
 
-<p class="home-element"><strong>nlam [dot] dinh [at] gmail [dot] com</strong></p>
+<p class="home-element"><strong>qhuong[dot] lai [at] gmail [dot] com</strong></p>
 </p>
