@@ -216,20 +216,72 @@ permalink: /projects/
 </div>
 
 <hr />
-
+<h2 id="conf">Python</h2>
+<hr />
 <div class="row">
     <div class="paper-img">
-      <img src="/assets/img/papers/rl3.png" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/py_da_eng.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://www.coursera.org/account/accomplishments/certificate/MSLWZ9ZCWKF8"><b>[C] Prediction and Control with Function Approximation
+      <a href="https://drive.google.com/file/d/1ObZKE3-ElxjqKaCEuWG8kC1g8iN4t7Eo/view?usp=sharing"><b>[C] Python Project for Data Engineering
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
-      <a class="label label-info"> About  <span class="abstract">In this course, we learned how to solve problems with large, high-dimensional, and potentially infinite state spaces. We studied that estimating value functions can be cast as a supervised learning problem (function approximation) allowing you to build agents that carefully balance generalization and discrimination in order to maximize reward. We begun this journey by investigating how our policy evaluation or prediction methods like Monte Carlo and TD can be extended to the function approximation setting. We learned about feature construction techniques for RL, and representation learning via neural networks and backprop. We concluded this course with a deep-dive into policy gradient methods; a way to learn policies directly without learning a value function. In this course we solved two continuous-state control tasks and investigate the benefits of policy gradient methods in a continuous-action environment. 
+      <a class="label label-info"> About  <span class="abstract">In this course, we studied how to build an end-to-end ETL workflow in Python, including extracting data through web scraping and APIs, transforming data into suitable formats, and loading it into databases. We also used Jupyter Notebooks and development environments to complete practical data-engineering tasks.
 </span> </a> &nbsp; 
-        <a href="https://www.coursera.org/account/accomplishments/certificate/MSLWZ9ZCWKF8" class="label label-success">Certificate</a> 
+        <a href="https://drive.google.com/file/d/1ObZKE3-ElxjqKaCEuWG8kC1g8iN4t7Eo/view?usp=sharing" class="label label-success">Certificate</a> 
+        <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-warning">News</a> -->
   </div>
 </div>
 
 <hr />
+
+<div class="row">
+    <div class="paper-img">
+      <img src="/assets/img/papers/py_da_AI.png" class="thumbnail" width="200" height="200" />
+    </div>
+    <div class="paper-text">
+      <a href="https://drive.google.com/file/d/1ffy4H6WXMMY-H9206nlGPqQ7_wvoXrOo/view?usp=sharing"><b>[C] Python for Data Science, AI & Development
+</b></a> <span style="font-size:16px;"><i></i></span><br /> 
+      <span style="font-size:15px;"><i>
+</i></span> <br /> 
+      <a class="label label-info"> About  <span class="abstract">In this course, we studied Python programming fundamentals, including data types, variables, strings, data structures, conditions, loops, functions, and object-oriented programming. We also learned to use NumPy, Pandas, and Jupyter Notebooks, as well as REST APIs and web scraping with BeautifulSoup to collect and work with web-based data.
+</span> </a> &nbsp; 
+        <a href="https://drive.google.com/file/d/1ffy4H6WXMMY-H9206nlGPqQ7_wvoXrOo/view?usp=sharing">Certificate</a> 
+  </div>
+</div>
+
+<hr />
+<h2 id="conf">SQL</h2>
+<hr />
+<div class="row">
+    <div class="paper-img">
+      <img src="/assets/img/papers/SQL_ds.png" class="thumbnail" width="200" height="200" />
+    </div>
+    <div class="paper-text">
+      <a href="https://drive.google.com/file/d/11I0krkKjm6vxWzI549NoCj_VGRz-lRbn/view?usp=sharing"><b>[C]  SQL for Data Science 
+</b></a> <span style="font-size:16px;"><i></i></span><br /> 
+      <span style="font-size:15px;"><i>
+</i></span> <br /> 
+      <a class="label label-info"> About  <span class="abstract">In this course, we studied SQL fundamentals for data analysis, including querying, filtering, sorting, summarizing, and combining data from multiple tables. We also learned to use functions to manipulate text, dates, and numerical values and to create analysis-ready datasets.
+</span> </a> &nbsp; 
+        <a href="https://drive.google.com/file/d/11I0krkKjm6vxWzI549NoCj_VGRz-lRbn/view?usp=sharing" class="label label-success">Certificate</a> 
+        <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-warning">News</a> -->
+  </div>
+</div>
+<hr />
+<div class="row">
+    <div class="paper-img">
+      <img src="/assets/img/papers/SQL_python.png" class="thumbnail" width="200" height="200" />
+    </div>
+    <div class="paper-text">
+      <a href="https://drive.google.com/file/d/1kBdy6xBIUSL4gjAjbbfDpbui6vV7eV27/view?usp=sharing"><b>[C]  SQL for Data Science 
+</b></a> <span style="font-size:16px;"><i></i></span><br /> 
+      <span style="font-size:15px;"><i>
+</i></span> <br /> 
+      <a class="label label-info"> About  <span class="abstract">In this course, we studied relational databases and SQL for data science, including creating and managing tables, writing basic-to-intermediate SQL queries, and analyzing data with Python. We also covered joins, views, transactions, stored procedures, and accessing databases through Jupyter Notebooks.
+</span> </a> &nbsp; 
+        <a href="https://drive.google.com/file/d/1kBdy6xBIUSL4gjAjbbfDpbui6vV7eV27/view?usp=sharing" class="label label-success">Certificate</a> 
+        <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-warning">News</a> -->
+  </div>
+</div>
