@@ -161,7 +161,7 @@ permalink: /projects/
       </span>
     </a>
     &nbsp;
-    <a href="https://drive.google.com/file/d/1wBm9Npn9BG9E2RBmYDfM-ny1l_dJpafz/view?usp=sharing">Certificate</a>
+    <a href="https://drive.google.com/file/d/1wBm9Npn9BG9E2RBmYDfM-ny1l_dJpafz/view?usp=sharing">On going</a>
   </div>
 </div>
 <hr />
