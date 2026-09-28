@@ -128,20 +128,20 @@ permalink: /projects/
 
 <hr />
 
-<h2 id="conf">Deep Learning</h2>
+<h2 id="conf">ICH Good clinical practice</h2>
 <hr />
 <div class="row">
     <div class="paper-img">
-      <img src="/assets/img/papers/f1.PNG" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/ICH.jpg" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://www.coursera.org/account/accomplishments/certificate/SXEAV9FX9Q7M"><b>[C] Neural Networks and Deep Learning
+      <a href="https://drive.google.com/file/d/1T4aX82HHeTT9Q_2RXjxUiorfjLNOCinH/view?usp=sharing"><b>[C] Neural Networks and Deep Learning
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
-      <a class="label label-info"> About  <span class="abstract">In this course, we studied the foundational concept of neural networks and deep learning. By the end, we was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      <a class="label label-info"> About  <span class="abstract">In this course, we studied the evolution and core principles of Good Clinical Practice, the roles of clinical-research stakeholders, and the application of GCP throughout study planning, initiation, conduct, risk management, closure, and post-study activities.
 </span> </a> &nbsp; 
-        <a href="https://www.coursera.org/account/accomplishments/certificate/SXEAV9FX9Q7M" class="label label-success">Certificate</a> 
+        <a href="https://drive.google.com/file/d/1T4aX82HHeTT9Q_2RXjxUiorfjLNOCinH/view?usp=sharing">Certificate</a> 
   </div>
 </div>
 
@@ -149,16 +149,16 @@ permalink: /projects/
 
 <div class="row">
     <div class="paper-img">
-      <img src="/assets/img/papers/f2.png" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/ICH_FreeGCP.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://www.coursera.org/account/accomplishments/certificate/PSBN4VY96XLD"><b>[C] Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+      <a href="https://www.freegcp.com/verify/666ebd7b4a25767a4a55828701a6575a"><b>[C] Good Clinical Practice
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
-      <a class="label label-info"> About  <span class="abstract">In the second course of the Deep Learning Specialization, we opened the deep learning black box to understand the processes that drive performance and generate good results systematically. By the end, we learned the best practices to train and develop test sets and analyze bias/variance for building deep learning applications; be able to use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence; and implement a neural network in TensorFlow.
+      <a class="label label-info"> About  <span class="abstract">We studied two parts: Clinical Research Foundations, covering clinical-research basics, ethics, and participant protection; and ICH E6(R3) Principles, focusing on informed consent, risk-based quality management, and data integrity according to ALCOA++ principles.
 </span> </a> &nbsp; 
-        <a href="https://www.coursera.org/account/accomplishments/certificate/PSBN4VY96XLD" class="label label-success">Certificate</a> 
+        <a href="https://www.freegcp.com/verify/666ebd7b4a25767a4a55828701a6575a" class="label label-success">Certificate</a> 
   </div>
 </div>
 
@@ -166,34 +166,34 @@ permalink: /projects/
 
 <div class="row">
     <div class="paper-img">
-      <img src="/assets/img/papers/edx1.png" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/GCP_citi.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://courses.edx.org/certificates/e5391e79663840f2bb5dbb8865856109"><b>[C] Machine Learning with Python - From Linear Models to Deep Learning
+      <a href="https://www.citiprogram.org/verify/?w22a8ada5-e4f7-4f77-b0a2-54664b50c6a1-76657347"><b>[C] GCP for Clinical Trials with Investigational Drugs and Biologics (ICH Focus)
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
-      <a class="label label-info"> About  <span class="abstract">In this course, we learned: (1) the principles behind machine learning problems such as classification, regression, clustering, and reinforcement learning, (2) Implement and analyze models such as linear models, kernel machines, neural networks, and graphical models, (3) Choose suitable models for different applications and (4) Implement and organize machine learning projects, from training, validation, parameter tuning, to feature engineering.
+      <a class="label label-info"> About  <span class="abstract">In this course, We learned key aspects of clinical research, including ICH E6(R3) GCP standards, investigator and sponsor responsibilities, drug development, differences between ICH GCP and FDA regulations, adverse-event detection and reporting, and auditing and monitoring requirements.
       </span> </a> &nbsp;
-        <a href="https://courses.edx.org/certificates/e5391e79663840f2bb5dbb8865856109" class="label label-success">Certificate</a> 
+        <a href="https://www.citiprogram.org/verify/?w22a8ada5-e4f7-4f77-b0a2-54664b50c6a1-76657347" class="label label-success">Certificate</a> 
   </div>
 </div>
 
 <hr />
-<h2 id="conf">Reinforcement Learning</h2>
+<h2 id="conf">SAS</h2>
 <hr />
 <div class="row">
     <div class="paper-img">
-      <img src="/assets/img/papers/rl1.png" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/SAS1.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://www.coursera.org/account/accomplishments/certificate/9NHWHJFTRZEZ"><b>[C] Reinforcement Learning
+      <a href="https://www.credly.com/badges/dcff9d00-37c3-4fd5-a499-b4bb3f0dc560/linked_in_profile"><b>[C] Foundations of Clinical Trials Programming Knowledge
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
-      <a class="label label-info"> About  <span class="abstract">This course introduced the fundamentals of Reinforcement Learning including: (1) Formalize problems as Markov Decision Processes, (2) Understand basic exploration methods and the exploration/exploitation tradeoff, (3) Understand value functions, as a general-purpose tool for optimal decision-making and (4) Know how to implement dynamic programming as an efficient solution approach to an industrial control problem.
+      <a class="label label-info"> About  <span class="abstract">Developed foundational competencies in clinical-trial data analysis, including the implementation of CDISC SDTM and ADaM standards using SAS Base, SAS SQL, and SAS Macro programming. Training also covered the creation of domain-specific clinical datasets and the efficient, accurate derivation of key clinical-trial variables through reusable SAS macros.
 </span> </a> &nbsp; 
-        <a href="https://www.coursera.org/account/accomplishments/certificate/9NHWHJFTRZEZ" class="label label-success">Certificate</a> 
+        <a href="https://www.credly.com/badges/dcff9d00-37c3-4fd5-a499-b4bb3f0dc560/linked_in_profile" class="label label-success">Certificate</a> 
         <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-warning">News</a> -->
   </div>
 </div>
@@ -202,16 +202,16 @@ permalink: /projects/
 
 <div class="row">
     <div class="paper-img">
-      <img src="/assets/img/papers/rl2.png" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/sas2.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://www.coursera.org/account/accomplishments/certificate/EEEXTWABZ3QP"><b>[C] Sample-based Learning Methods
+      <a href="https://www.credly.com/badges/fd3c8066-645a-45b1-9085-fabea7b53ea6/linked_in_profile"><b>[C] SAS SQL Essentials Knowledge Badge
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
-      <a class="label label-info"> About  <span class="abstract">In this course, we shed light on several algorithms that can learn near optimal policies based on trial and error interaction with the environment. Learning from actual experience is striking because it requires no prior knowledge of the environment’s dynamics, yet can still attain optimal behavior. We covered intuitively simple but powerful Monte Carlo methods, and temporal difference learning methods including Q-learning. We wrapped up this course investigating how we can get the best of both worlds: algorithms that can combine model-based planning (similar to dynamic programming) and temporal difference updates to radically accelerate learning.
+      <a class="label label-info"> About  <span class="abstract">In this course, we demonstrated proficiency in SAS SQL for data querying, subsetting, summarization, reporting, and table integration using joins and set operators. Training also covered creating and modifying tables and views, generating macro variables with PROC SQL, and accessing DBMS data through SAS/ACCESS technology.
 </span> </a> &nbsp; 
-        <a href="https://www.coursera.org/account/accomplishments/certificate/EEEXTWABZ3QP" class="label label-success">Certificate</a> 
+        <a href="https://www.credly.com/badges/fd3c8066-645a-45b1-9085-fabea7b53ea6/linked_in_profile">Certificate</a> 
   </div>
 </div>
 
