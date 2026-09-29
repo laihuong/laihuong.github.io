@@ -2,51 +2,44 @@ about:
   title: "About me"
   section: about
   image: assets/img/huonglai.bmp
-  text:    |
+  text: |
     <div class="about-description">
       <p>
         I am a <strong>research engineer</strong> with a strong background in
         <strong>molecular biology, biochemistry, and computational biology</strong>.
-      </p>
-
-      <p>
-        I am currently completing my PhD at
+        Currently, I am completing my PhD at
         <a href="https://univ-cotedazur.fr/laboratoires/institute-for-research-on-cancer-and-aging-nice-ircan">
           <strong>Université Côte d’Azur</strong>
         </a>,
         where I study
-        <strong>protein–protein interactions and biomolecular modeling</strong>.
+        <strong> protein–protein interactions and biomolecular modeling</strong>.
       </p>
 
       <p>
-        My training combines
-        <strong>experimental and computational approaches</strong>, including
+        Through this doctoral research, I have developed an interdisciplinary
+        approach that combines
+        <strong>experimental and computational methods</strong>, including
         biochemical assays, molecular biology techniques, bioinformatics,
-        and biological data analysis.
-      </p>
-
-      <p>
-        I have gained research experience at several French institutes,
-        working on topics ranging from
+        and biological data analysis.In addition, my experience at several French research institutes has
+        allowed me to work on a wide range of topics, from
         <strong>DNA repair mechanisms and antiviral inhibitor development</strong>
         to
         <strong>telomere biology and protein interaction systems</strong>.
       </p>
 
       <p>
-        I am now interested in applying my interdisciplinary expertise to
-        <strong>biomedical and clinical data</strong>, with a particular focus on
-        <strong>data management, data analysis, and computational research</strong>.
-      </p>
-
-      <p>
-        I am particularly motivated by opportunities at the intersection of
-        <strong>biology, healthcare, and data science</strong>, where I can combine
-        my experimental background with computational skills to address biomedical
-        research questions and contribute to
+        Building on this diverse experience, I now aim to apply my expertise
+        to <strong>biomedical and clinical data</strong>, particularly in
+        <strong>
+          data management, data analysis, and computational research
+        </strong>.Ultimately, I am interested in opportunities at the intersection of
+        <strong>biology, healthcare, and data science</strong>, where I can
+        integrate my experimental background with computational skills to
+        address biomedical questions and contribute to
         <strong>data-driven research</strong>.
       </p>
     </div>
+
     
   position: Research engineer in biochemistry and bioinformatic
   school: IRCAN Nice
