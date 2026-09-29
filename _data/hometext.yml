@@ -2,8 +2,102 @@ about:
   title: "About me"
   section: about
   image: assets/img/huonglai.bmp
-  text:    </p> I am a <strong>research engineer</strong> with a strong background in <strong> molecular biology, biochemistry, and computational biology </strong>. </p> <p> I am currently completing my PhD at <a href="https://univ-cotedazur.fr/laboratoires/institute-for-research-on-cancer-and-aging-nice-ircan"> <strong>Université Côte d’Azur</strong> </a>, where I study <strong> protein–protein interactions and biomolecular modeling </strong>. </p> <p> My training combines <strong>experimental and computational approaches</strong>, including biochemical assays, molecular biology techniques, bioinformatics, and biological data analysis. </p> <p> I have gained research experience at several French institutes, working on topics ranging from <strong> DNA repair mechanisms and antiviral inhibitor development </strong> to <strong> telomere biology and protein interaction systems </strong>. </p> <p> I am now interested in applying my interdisciplinary expertise to <strong>biomedical and clinical data</strong>, with a particular focus on <strong> data management, data analysis, and computational research </strong>. </p> <p> I am particularly motivated by opportunities at the intersection of <strong>biology, healthcare, and data science</strong>, where I can combine my experimental background with computational skills to address biomedical research questions and contribute to <strong>data-driven research</strong>.</p>
-    
+  text:    
+|
+    <div class="about-description">
+      <p>
+        I am a <strong>research engineer</strong> with a strong background in
+        <strong>molecular biology, biochemistry, and computational biology</strong>.
+      </p>
+
+      <p>
+        I am currently completing my PhD at
+        <a href="https://univ-cotedazur.fr/laboratoires/institute-for-research-on-cancer-and-aging-nice-ircan">
+          <strong>Université Côte d’Azur</strong>
+        </a>,
+        where I study
+        <strong>protein–protein interactions and biomolecular modeling</strong>.
+      </p>
+
+      <p>
+        My training combines
+        <strong>experimental and computational approaches</strong>, including
+        biochemical assays, molecular biology techniques, bioinformatics,
+        and biological data analysis.
+      </p>
+
+      <p>
+        I have gained research experience at several French institutes,
+        working on topics ranging from
+        <strong>DNA repair mechanisms and antiviral inhibitor development</strong>
+        to
+        <strong>telomere biology and protein interaction systems</strong>.
+      </p>
+
+      <p>
+        I am now interested in applying my interdisciplinary expertise to
+        <strong>biomedical and clinical data</strong>, with a particular focus on
+        <strong>data management, data analysis, and computational research</strong>.
+      </p>
+
+      <p>
+        I am particularly motivated by opportunities at the intersection of
+        <strong>biology, healthcare, and data science</strong>, where I can combine
+        my experimental background with computational skills to address biomedical
+        research questions and contribute to
+        <strong>data-driven research</strong>.
+      </p>
+    </div>
+
+  position: "Research Engineer in Biochemistry and Bioinformatics"
+  school: "IRCAN, Nice"
+
+  news:
+    - text: |
+        <p class="align-justify">
+          <a href="#" class="box-news box-news-date">09/2026</a>
+          We submitted the thesis manuscript,
+          <strong>
+            “Coevolution and Functional Diversification of the TRF2–Apollo
+            Interaction in Jawed Vertebrates,”
+          </strong>
+          through ADUM. An article with the same title is currently being
+          submitted to <em>EMBO Reports</em>.
+        </p>
+
+    - text: |
+        <p class="align-justify">
+          <a href="#" class="box-news box-news-date">09/2025</a>
+          We published a paper in
+          <a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01031-9">
+            <em>Cell Reports</em>
+          </a>
+          entitled
+          <a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01031-9">
+            <strong>
+              “TELS1 stabilizes t-loops independently of TRF2 and controls
+              telomere length in pluripotent cells”
+            </strong>
+          </a>.
+        </p>
+
+    - text: |
+        <p class="align-justify">
+          <a href="#" class="box-news box-news-date">05/2024</a>
+          We presented our poster,
+          <strong>
+            “Functional Diversification of the TRF2–Apollo Interaction in
+            Selected Species,”
+          </strong>
+          at the
+          <a href="https://meetings.embo.org/event/24-telomere">
+            EMBO Workshop in Rome
+          </a>
+          and the
+          <a href="https://meetings.embo.org/event/24-aging">
+            EMBO Workshop in Nice
+          </a>.
+        </p>
     
   position: Research engineer in biochemistry and bioinformatic
   school: IRCAN Nice
